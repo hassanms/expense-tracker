@@ -1,6 +1,6 @@
 # Live Demo
 
-[Click Here](http://expense-tracker-hassanms.surge.sh/).
+[Click Here](http://expense-tracker-hassanms.surge.sh/)
 
 ## Available Scripts
 

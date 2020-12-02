@@ -1,4 +1,4 @@
-# Live Demo
+# Expense Tracker
 
 An expense tracker based on React Hooks & Context API
 

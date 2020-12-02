@@ -1,5 +1,9 @@
 # Live Demo
 
+An expense tracker based on React Hooks & Context API
+
+## Live Demo
+
 [http://expense-tracker-hassanms.surge.sh/](http://expense-tracker-hassanms.surge.sh/)
 
 ## Available Scripts
